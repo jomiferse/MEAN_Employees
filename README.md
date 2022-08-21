@@ -1,3 +1,7 @@
+# Ejemplo con Angular, Empress y MongoDB
+
+![ex](https://user-images.githubusercontent.com/47986440/185801857-52a241d5-ceae-4d11-ba89-1029871db536.PNG)
+
 ## Instalación de Nodejs y NPM
 `sudo apt-get update`
 
